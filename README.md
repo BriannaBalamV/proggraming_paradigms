@@ -1,1 +1,0 @@
-# proggraming_paradigms
